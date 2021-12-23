@@ -94,3 +94,5 @@ enqueu(3)
 let a = dequeue()
 
 console.log(array,a)
+
+
