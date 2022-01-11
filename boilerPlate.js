@@ -2,8 +2,6 @@ function runProgram(input) {
 
     //WriteCode here
 
-
-
 }
 if (process.env.USER === "") {
     runProgram(``);
