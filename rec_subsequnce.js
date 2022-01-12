@@ -18,3 +18,4 @@ str = "abcd"
 new_str = ""
 index = 0
 subseq("","abcd",0)
+//the time complicity is 2^N
