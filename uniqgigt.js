@@ -1,7 +1,9 @@
 obj = {}
 function uniqueGift(str){
+
     str =""
     queue = []
+    
     for(let i = 0;i<a.length;i++){
         queue.push(a[i])
         while(queue.length != 0){
@@ -14,7 +16,7 @@ function uniqueGift(str){
         if(queue.length == 0){
             str+="#"
         }else{
-            str+=queue[0]
-        }
+            str+ = queue[0]
+        } 
     }
 }
